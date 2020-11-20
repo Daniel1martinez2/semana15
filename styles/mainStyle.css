@@ -1,0 +1,29 @@
+*{
+    text-align: center;
+    box-sizing: border-box;
+    
+}
+input{
+    color: rgb(226, 43, 165);
+}
+
+h3{
+    color: rgb(226, 43, 165);
+}
+
+h5{
+    color: rgb(87, 87, 87);
+}
+h6{
+    color: rgb(226, 43, 165);  
+}
+
+.contact {
+    margin-bottom: 2em;
+    background-color: rgb(255, 239, 17);
+}
+
+.contact button{
+    position: absolute;
+    margin-left: 8em;
+}
